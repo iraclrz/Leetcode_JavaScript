@@ -9,9 +9,10 @@ Array.prototype.last = function() {
     return -1;
 };
 
-console.log("fdfdssddsfdsff");
+let nums = [null, {}, 3]
+console.log(nums.last());
 
 /**
  * const arr = [1, 2, 3];
  * arr.last(); // 3
- */
+*/
