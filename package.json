@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "missing_numbers":"nodemon Missing_Numbers.js",
-    "array_prototype_last": "nodemon Array_Prototype_Last.js"
+    "array_prototype_last": "nodemon Array_Prototype_Last.js",
+    "counter": "nodemon Counter.js"
 
   },
   "keywords": [],
