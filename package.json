@@ -8,7 +8,8 @@
     "missing_numbers":"nodemon Missing_Numbers.js",
     "array_prototype_last": "nodemon Array_Prototype_Last.js",
     "counter": "nodemon Counter.js",
-    "array_reduce_transformation": "nodemon Array_Reduce_Transformation.js"
+    "array_reduce_transformation": "nodemon Array_Reduce_Transformation.js",
+    "memoize": "nodemon Memoize.js"
 
   },
   "keywords": [],
