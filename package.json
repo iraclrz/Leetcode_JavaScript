@@ -10,7 +10,8 @@
     "counter": "nodemon Counter.js",
     "array_reduce_transformation": "nodemon Array_Reduce_Transformation.js",
     "memoize": "nodemon Memoize.js",
-    "find_the_town_judge": "nodemon Find_the_Town_Judge.js"
+    "find_the_town_judge": "nodemon Find_the_Town_Judge.js",
+    "snakes_and_ladders": "nodemon Snakes_and_Ladders.js"
 
   },
   "keywords": [],
