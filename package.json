@@ -12,7 +12,8 @@
     "memoize": "nodemon Memoize.js",
     "find_the_town_judge": "nodemon Find_the_Town_Judge.js",
     "snakes_and_ladders": "nodemon Snakes_and_Ladders.js",
-    "cheapest_flights_within_kstops": "nodemon Cheapest_Flights_Within_KStops.js"
+    "cheapest_flights_within_kstops": "nodemon Cheapest_Flights_Within_KStops.js",
+    "promise_time_limit": "nodemon Promise_Time_Limit.js"
 
   },
   "keywords": [],
